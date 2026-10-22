@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/d3c2eb19-5ddd-47b8-9080-ba5862dda8d2" />
 
 <!--
 **hemi-chk/hemi-chk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
